@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_ali_face_verify'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Flutter plugin for Ali face verify'
   s.description      = <<-DESC
 Flutter plugin for Ali face verify
