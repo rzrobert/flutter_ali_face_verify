@@ -1,6 +1,6 @@
 name: flutter_ali_face_verify
 description: Flutter plugin for Ali face verify. Read (docs)[https://github.com/OpenFlutter/flutter_ali_face_verify] for more details.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/OpenFlutter/flutter_ali_face_verify
 
 environment:
